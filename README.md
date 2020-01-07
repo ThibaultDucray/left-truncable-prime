@@ -7,4 +7,4 @@ Algorithm to find the longest left-truncable-prime, such as 612113 :
 13 is prime
 3 is prime
 
-But there is a longest prime.
+But there is a longer and even a longest prime, the given python code calculates it.
